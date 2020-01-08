@@ -280,7 +280,7 @@ h2.pagetitle {
 
 
 .navbar-fixed-top .container {
-	background: #748187;
+	background: #2f84a7;
 
 /* Uncomment to make expand full width */
  /*	width: auto; */
@@ -321,7 +321,7 @@ h2.pagetitle {
 }
 .navbar-inverse .navbar-inner {
 	background-repeat: repeat;
-	background: #748187;
+	background: #2f84a7;
 	opacity: 0.99;
 -webkit-box-shadow: 0px 5px 3px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 5px 3px 0px rgba(0,0,0,0.75);
